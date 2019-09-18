@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM arm32v6/alpine:3.10
 
 ENV PORT=5555
 
